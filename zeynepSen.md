@@ -22,3 +22,5 @@ public class JavaOrnekleri {
     }
     
 }
+elc
+deneme
