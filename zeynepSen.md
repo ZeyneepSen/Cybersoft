@@ -18,6 +18,7 @@ public class JavaOrnekleri {
         int toplam = sayi1 + sayi2;
  
         System.out.println("Sayıların Toplamı: " + toplam);
+        System.out.println("deniyorum");
     }
     
 }
