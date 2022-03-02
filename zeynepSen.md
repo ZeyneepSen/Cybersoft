@@ -24,3 +24,5 @@ public class JavaOrnekleri {
 }
 elc
 deneme
+ilk
+son
