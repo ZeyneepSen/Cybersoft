@@ -26,3 +26,4 @@ elc
 deneme
 System.out.println("sayilar");
 System.out.println("oldu");
+SYstemmm;
